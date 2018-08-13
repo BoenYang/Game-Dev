@@ -1,9 +1,12 @@
 ## 游戏开发资源合集
 
+---
 
+进入游戏行业有几年的时间了，收集了很多的游戏开发学习教程，包含游戏开发编程，美术，设计相关几个方面（想做一一名独立游戏开发者，所以就关注了这么多了），下面列出了质量很高的一部分，都是我自己看过的，分享给大家，有其他更好的也欢迎推荐给我哈！
 
 ---
 ## YouTube 订阅
+
 ### 编程相关
 
 Sharp Accent  
@@ -56,7 +59,20 @@ https://www.youtube.com/channel/UCsn9MzwyPKeCE6MEGtMU4gg/videos
 
 未完待续。。。  
 
-## 博客，网站
+---
+
+## 博客 && 网站
+
+https://learnopengl.com/
+Opengl从入门到精通，哈哈，真的是从入门到精通，从基础的Open绘图——高级的Opengl接口（FrameBuffer,GPU Instance等）——Lighting——Shadow——PBR都涉及了，并且有详细的代码和讲解，墙裂推荐。
+
+https://www.alanzucconi.com/tutorials/  
+大神Alanzucconi的博客，很多**高质量**的Unity的高级教程，例如 [3D打印机效果](https://www.alanzucconi.com/2016/10/02/3d-printer-shader-effect-part-1/)，[IK动画原理代码实现](https://www.alanzucconi.com/2017/04/10/robotic-arms/)等
+
+https://catlikecoding.com/unity/tutorials/
+Catlike Coding的网站，有Unity Shader教程、程序化网格生成、渲染等教程，教程质量高，有趣，难度不是很大。
+
+未完待续。。。 
 
 
   
