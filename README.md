@@ -46,7 +46,7 @@ https://www.youtube.com/channel/UCqFFZvgC7JUL6esOrL8LyWg/videos
 
 Peer Play  
 https://www.youtube.com/channel/UCBkub2TsbCFIfdhuxRr2Lrw/videos  
-大部分都是一些Audio Visualization相关教程，也有一些Shader相关的教程，做出来的效果都很炫酷，值得一看 
+大部分都是一些Audio Visualization相关教程，也有一些Shader相关的教程，做出来的效果都很炫酷，值得一看  
 难度：★★★  
 实用性：★  
 侧重方向：Audio Visualization & 图形效果  
