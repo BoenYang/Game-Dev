@@ -55,7 +55,7 @@ World of Zero
 https://www.youtube.com/channel/UCJKLCjeujQj-d3JjsbVtkJw/videos  
 这个up主的的视频各种各样，有底层、渲染、gameplay、特效等，各式各样，五花八门，都是独立的小教程，可以挑一些感兴趣的看看  
 难度：★★  
-实用性：★★ 
+实用性：★★  
 侧重方向：五花八门
 
 quill18creates  
