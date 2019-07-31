@@ -32,7 +32,7 @@ https://www.youtube.com/channel/UCz-eYJAUgSE-mqzKtit7m9g/videos
 
 Sebastian Lague  
 https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ/videos  
-简介：Unity进阶教程，难度中等，完全自定义2D平台控制器，PCG技术，A* 寻路，基础建模教程！ 
+简介：Unity进阶教程，难度中等，完全自定义2D平台控制器，PCG技术，A* 寻路，基础建模教程！  
 难度：★★  
 实用性：★★★  
 侧重方向：GamePlay技术     
