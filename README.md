@@ -111,14 +111,20 @@ https://www.youtube.com/channel/UCGSJevmBuDyxjLLOBNaYMGA/videos
 
 ## 博客 && 网站 && 专栏
 
-https://learnopengl.com/
+https://learnopengl.com/  
 Opengl从入门到精通，哈哈，真的是从入门到精通，从基础的Open绘图——高级的Opengl接口（FrameBuffer,GPU Instance等）——Lighting——Shadow——PBR都涉及了，并且有详细的代码和讲解，墙裂推荐。
 
 https://www.alanzucconi.com/tutorials/  
 大神Alanzucconi的博客，很多**高质量**的Unity的高级教程，例如 [3D打印机效果](https://www.alanzucconi.com/2016/10/02/3d-printer-shader-effect-part-1/)，[IK动画原理代码实现](https://www.alanzucconi.com/2017/04/10/robotic-arms/)等
 
-https://catlikecoding.com/unity/tutorials/
+https://catlikecoding.com/unity/tutorials/  
 Catlike Coding的网站，有Unity Shader教程、程序化网格生成、渲染等教程，教程质量高，有趣，难度不是很大。
+
+Unity手机游戏核心技术实践系列教程  
+[贪吃蛇大战游戏开发实战](http://gameinstitute.qq.com/lore/index/10007)  
+从零开始一行行代码编写了一个简洁的客户端框架（包含模块化架构，UI框架），并简单介绍了帧同步以及热更新技术  
+[手游核心技术实战](http://gameinstitute.qq.com/lore/catalog/10017)  
+承接上一个教程，将上一部分编写的客户端框架进一步进行了完成，并解释了设计理念，在后续还花了很长的时间从零开始讲解实现了帧同步的客户端以及服务端代码实现
 
 未完待续。。。 
 
